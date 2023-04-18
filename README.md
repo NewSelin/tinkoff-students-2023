@@ -6,3 +6,5 @@
 - [Хеширование](Hashing)
 - [Динамическое программирование](Dynamic%20programming-1)
 - [ДП-2 + Переборы](Dynamic%20programming-2,%20enumeration)
+- [Графы: обходы и расстояния](Graphs:%20walks%20and%20distances)
+- [DAG](DAG)
